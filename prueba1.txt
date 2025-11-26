@@ -1,2 +1,2 @@
 prueba del primer commit
-Segunda linea de comando
+Segunda linea de comando.
